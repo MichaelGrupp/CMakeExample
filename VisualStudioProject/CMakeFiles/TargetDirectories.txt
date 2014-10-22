@@ -1,4 +1,0 @@
-C:/Users/Michael/Source/Test/VisualStudioProject/myTestLib/CMakeFiles/ALL_BUILD.dir
-C:/Users/Michael/Source/Test/VisualStudioProject/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Michael/Source/Test/VisualStudioProject/myTestApp/CMakeFiles/myTestApp.dir
-C:/Users/Michael/Source/Test/VisualStudioProject/myTestLib/CMakeFiles/myTestLib.dir
