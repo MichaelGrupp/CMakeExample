@@ -1,0 +1,16 @@
+﻿Der Buildvorgang wurde am 22.10.2014 17:12:03 gestartet.
+     1>Projekt "C:\Users\Michael\Source\Test\VisualStudioProject\myTestLib\myTestLib.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\Michael\Source\Test\myTestLib\include /IC:\boost_1_56_0 /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"myTestLib.dir\Debug\\" /Fd"myTestLib.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\myTestLib\src\mathLibs\AdvancedFunctions.cpp ..\..\myTestLib\src\mathLibs\SimpleFunctions.cpp
+         AdvancedFunctions.cpp
+         SimpleFunctions.cpp
+         Code wird generiert...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Michael\Source\Test\VisualStudioProject\myTestLib\Debug\myTestLib.lib" /NOLOGO /MACHINE:X64 myTestLib.dir\Debug\SimpleFunctions.obj
+         myTestLib.dir\Debug\AdvancedFunctions.obj
+         myTestLib.vcxproj -> C:\Users\Michael\Source\Test\VisualStudioProject\myTestLib\Debug\myTestLib.lib
+     1>Die Erstellung des Projekts "C:\Users\Michael\Source\Test\VisualStudioProject\myTestLib\myTestLib.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.62
